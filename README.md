@@ -13,8 +13,8 @@ In this section, we dug into statistical distributions.
 Key takeaways include:
 
 * There are two ways we categorize distributions: discrete and continuous
-  * **Discrete** distributions have a distinct, non-infinite number of possible values. For example, the number of bedrooms in a house is discrete. We describe discrete distributions using **probability mass function**s (PMFs).
-  * **Continuous** distributions have effectively an infinite number of possible values (subject to measurement and/or storage precision). For example, a person's height is continuous. We describe continuous distributions using **probability density function**s (PDFs) and **cumulative distribution function**s (CDFs).
+  * **Discrete** distributions have a distinct, non-infinite number of possible values. For example, the number of bedrooms in a house is discrete. We describe discrete distributions using **probability mass functions** (PMFs).
+  * **Continuous** distributions have effectively an infinite number of possible values (subject to measurement and/or storage precision). For example, a person's height is continuous. We describe continuous distributions using **probability density functions** (PDFs) and **cumulative distribution functions** (CDFs).
 * Highlighting some specific distributions:
   * Bernoulli Trials deal with a series of boolean events, which is a type of discrete distribution
   * The **normal** distribution is the classic "bell curve" with 68% of the probability mass within 1 SD (standard deviation) of the mean, 95% within 2 SDs, and 99.7% within 3 SDs.
